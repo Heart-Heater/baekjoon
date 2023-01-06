@@ -1,3 +1,7 @@
+// 1. 그리디 문제로 접근했음
+// 2. X의 개수가 홀수면 -1 출력 후 return
+// 3. X의 개수가 짝수면 4의 배수 만큼 AAAA 출력 후 나머지 있으면 BB 
+
 #include <iostream>
 #include <string>
 
