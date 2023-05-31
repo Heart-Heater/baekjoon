@@ -1,3 +1,10 @@
 # baekjoon
 
 백준 풀이 및 공부 저장소
+
+
+|번호|대분류|소분류|링크|상태|
+|:---:|:---:|:---:|:---:|:---:|
+|1|Data Structure|Map|테스트3|수정중|
+|2|Data Structure|Queue|테스트3|수정중|
+|3|Data Structure|Stack|테스트3|수정중|
