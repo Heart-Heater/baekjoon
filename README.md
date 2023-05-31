@@ -5,6 +5,6 @@
 
 |번호|대분류|소분류|링크|상태|
 |:---:|:---:|:---:|:---:|:---:|
-|1|Data Structure|Map|테스트3|수정중|
+|1|Data Structure|Map|[바로가기](https://github.com/Ian0121/baekjoon/tree/main/solution/Data_Structure_Map)|수정중|
 |2|Data Structure|Queue|테스트3|수정중|
 |3|Data Structure|Stack|테스트3|수정중|
