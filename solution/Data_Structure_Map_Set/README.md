@@ -10,3 +10,4 @@
 |2002|추월|실버1||[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Map_Set/2002.cpp)|
 |25758|유전자 조합|실버1|멤버함수(upper_bound)|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Map_Set/25758.cpp)|
 |2866|문자열 잘라내기|골드5|이분탐색|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Map_Set/2866.cpp)|
+|1351(수정중)|무한 수열|골드5|DP|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Map_Set/1351.cpp)|
