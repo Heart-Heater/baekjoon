@@ -10,8 +10,8 @@
 |3|Data Structure|Stack|테스트|수정중|
 |4|Data Structure|Dequeue|테스트|수정중|
 |5|Data Structure|Priority Queue|테스트|수정중|
-|6|Brute Force|Basic|테스트|수정중|
-|7|Brute Force|Back Tracking|테스트|수정중|
+|6|Brute Force|Basic|[바로가기](https://github.com/Ian0121/baekjoon/tree/main/solution/Brute_Force_Basic)|수정중|
+|7|Brute Force|Back Tracking|[바로가기](https://github.com/Ian0121/baekjoon/tree/main/solution/Brute_Force_Back_Tracking)|수정중|
 ||Graph Traversal|BFS|테스트|수정중|
 ||Shortest Path|BFS|테스트|수정중|
 ||Binary Search|테스트|[바로가기](https://github.com/Ian0121/baekjoon/tree/main/solution/Binary_Search)|수정중|
