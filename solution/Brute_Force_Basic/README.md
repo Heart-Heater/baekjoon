@@ -7,3 +7,4 @@
 |1251|단어 나누기|실버5|string 멤버함수(substr)|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Brute_Force_Basic/1251.cpp)|
 |1065|한수|실버4||[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Brute_Force_Basic/1065.cpp)|
 |1057|토너먼트|실버4|수학|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Brute_Force_Basic/1057.cpp)|
+|1969|DNA|실버4|그리디|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Brute_Force_Basic/1969.cpp)|
