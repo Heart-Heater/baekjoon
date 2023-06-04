@@ -1,6 +1,8 @@
 # Data_Structure_Stack
 
 [1] : https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667
+[갓대희의 작은 공간][gdh]
+[gdh]: https://goddaehee.tistory.com
 
 |문제 번호|문제 이름|난이도|키포인트|링크|
 |:---:|:---:|:---:|:---:|:---:|
