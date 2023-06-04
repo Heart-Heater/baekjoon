@@ -6,3 +6,4 @@
 |:---:|:---:|:---:|:---:|:---:|
 |9012|괄호|실버4||[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Stack/9012.cpp)|
 |10773|제로|실버4||[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Stack/10773.cpp)|
+|17298|오큰수|골드4||[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Stack/17298.cpp)|
