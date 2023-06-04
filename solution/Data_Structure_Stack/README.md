@@ -1,6 +1,6 @@
 # Data_Structure_Stack
 
-[s4]: https://camo.githubusercontent.com/64671b5a244ad70dc11665f1293bdde51747df3d9cd4bfe2c36b1e5e1a78872b/68747470733a2f2f7374617469632e736f6c7665642e61632f746965725f736d616c6c2f372e737667
+[s4]: https://d2gd6pc034wcta.cloudfront.net/tier/7.svg
 
 
 
