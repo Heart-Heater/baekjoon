@@ -4,6 +4,7 @@
 
 |문제 번호|문제 이름|난이도|키포인트|링크|
 |:---:|:---:|:---:|:---:|:---:|
+|10816|숫자 카드 2|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="20" height="20"/>|unordered_map과 map의 속도 비교|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Map_Set/10816.cpp)|
 |14425|문자열 집합|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>|map 멤버함수(insert)|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Map_Set/14425.cpp)|
 |11478|서로 다른 부분 문자열의 개수|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>|문자열|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Map_Set/11478.cpp)|
 |9375|패션왕 신해빈|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="20" height="20"/>|map 멤버함수(find)|[링크](https://github.com/Ian0121/baekjoon/blob/main/solution/Data_Structure_Map_Set/9375.cpp)|
